@@ -1,0 +1,48 @@
+Machine Learning 101 - note pointers
+
+History
+AI vs ML vs DL
+Reinforcement Learning
+Federated Learning
+
+value of errors in project
+
+right decision & optimal decision
+
+classifcations of machine learning
+-supervised learning
+-unsupervised learning 
+
+ML Life cycle
+
+Data
+data acquisition
+Types of Data - numerical, categorical, ordinal 
+
+Data Preprocessing
+
+Handling missing data
+
+Encoding Categorical data
+-one hot encoding
+-label encoder
+
+--Practical session
+
+// supervised ML
+--regression & classifcation
+
+-REGRESSION //continuous output prediction
+-dependent/independant variables
+-outliers/multicolinearity
+-overfitting/underfitting
+
+Linear Regression
+-ordinary least squares
+
+polynomial regression
+
+bias-variance tradeoff
+
+
+CLASSIFICATION

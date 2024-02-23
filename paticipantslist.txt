@@ -1,0 +1,37 @@
+1,Joju Jose Joseph, S7 CSE-B , Ansamol Varghese
+4,Abid Muhammad, S5 CSE, Syam Gopi
+5,Deepta K Sunny,S5 CSE,Syam Gopi
+6,Akshaya A S, S5 CH, Dr Vishnu M
+7,Abin Sunny, S5 CSE-A, Syam Gopi
+8,Alan Thomas Shaji, S5 CSE, Syam Gopi
+9,Amitha Anil, S5 CSE, Syam Gopi
+10,Elsa george, S5 CSE, Syam Gopi
+11,Annapoorna M, S5 CSE, Syam Gopi
+12,Raihana Rasaldeen,  S5 CSE B,  Niya Joseph
+13,Arun K A,S5 CSE A,Syam Gopi
+14,Augustine Salas,S5 CSE A,Syam Gopi
+15,Anandhu Anoj, S5 CSE A,Syam Gopi
+16,Albert Joji ,EEE S3, Rohit Raj Eapan
+17,George P Kurias, S5 CSE B , Niya joseph
+18,Alan Siby,S5 CSE A, Syam Gopi
+19,Joshua John sajit,S5 CSE B, Niya Joseph
+20,Abin Melvin, S5 CSE A, Syam Gopi
+21,Adheena Thomas,S5 CSE A,Syam Gopi
+22,Hridya Catherene Yesudas, S5 CSE B,Niya Joseph
+23,Stefi Marshal Fernandez, S5 CSE B, Niya Joseph
+24,Abhishek P Anil, S5 CSE A, Syam Gopi
+25,Alphonsa Francis,S5 CSE A,Syam Gopi
+26,Avin Joshy, S5 CSE-A,Syam Gopi
+27,Albin Joseph, S5 CSE A, Syam Gopi
+28,Gokul Krishna A U,S5 CSE B,Niya Joseph
+29,Diona Joseph,S7 CSE A,Anishamol Abraham
+30,Dona Lisa Mathew,S7 CSE A, Anishamol Abraham
+31,Mathew Abraham,S5 CSE B,Niya Joseph
+32,Lincy K,S5 ECE ,Tessy Annie Varghese
+33,Alan Gafar, S5 CSE A, Syam Gopi
+34,Abishek R Paleri, S5 CSE A,Syam Gopi
+35,Tessa Joise, S5 ECE, Tessy Annie Varghese
+36,Abdul Musawir, S7 CSE A, Anishamol Abraham
+37,Midhun Mohan, S7 CSE B, Ansamol Varghese 
+38,Arjun Saji, S5 CSE A, Syam Gopi
+39,Ashique muhammed TN, S5 CSE A, SYAM GOPI
